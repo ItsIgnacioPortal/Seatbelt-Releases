@@ -1,5 +1,5 @@
 # Seatbelt-Releases
-(Original Repo)[https://github.com/GhostPack/Seatbelt]
+(Original Repo](https://github.com/GhostPack/Seatbelt)
 The releases are on the releases folder. Download the one you want. All releases were compiled with:
 * Visual Studio 2019
 * .NET Framework SDK version 3.1.401
